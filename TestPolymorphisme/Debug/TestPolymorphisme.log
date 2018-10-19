@@ -1,0 +1,5 @@
+﻿     Création de la bibliothèque C:\Users\ciso3401\source\repos\Polymorphisme\Debug\TestPolymorphisme.lib et de l'objet C:\Users\ciso3401\source\repos\Polymorphisme\Debug\TestPolymorphisme.exp
+Moto.obj : error LNK2019: symbole externe non résolu "public: __thiscall Vehicule::Vehicule(void)" (??0Vehicule@@QAE@XZ) référencé dans la fonction "public: __thiscall Moto::Moto(double)" (??0Moto@@QAE@N@Z)
+Moto.obj : error LNK2019: symbole externe non résolu "public: __thiscall Vehicule::~Vehicule(void)" (??1Vehicule@@QAE@XZ) référencé dans la fonction "public: __thiscall Moto::~Moto(void)" (??1Moto@@QAE@XZ)
+Moto.obj : error LNK2011: objet précompilé absent de l'édition de liens ; l'image risque de ne pas s'exécuter
+C:\Users\ciso3401\source\repos\Polymorphisme\Debug\TestPolymorphisme.dll : fatal error LNK1120: 3 externes non résolus

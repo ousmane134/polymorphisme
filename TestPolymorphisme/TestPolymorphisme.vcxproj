@@ -164,6 +164,14 @@
     </ClCompile>
     <ClCompile Include="unittest1.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Polymorphisme\Polymorphisme.vcxproj">
+      <Project>{79afdd4d-c71c-493b-80f0-06917b9d6623}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\Polymorphisme\Debug\Moto.obj" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
